@@ -19,7 +19,8 @@ public class test_1 {
 		}
 		s=str.substring(33,35);
 		System.out.println("you最后一次出现"+location+"\n"+"k出现的次数"+i+"\n"+"已经截取"+s);
-
+		System.out.println('a'+1);
+		System.out.println(""+'a'+1);
 	}
 
 }
