@@ -10,7 +10,6 @@ public class Test {
 			str=br.readLine();
 			if(!("ok".equals(str))){
 				System.out.println(str+"  ");
-				
 			}
 			else{
 				System.out.println("您确定输入完成了吗？");

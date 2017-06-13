@@ -45,7 +45,7 @@ public class T9 {
 		hset.add(new Worker("w1", 21, 2000));
 		hset.add(new Worker("w2", 22, 2200));
 		hset.add(new Worker("w3", 20, 5000));
-		hset.add(new Worker("w1", 21, 2000));
+		hset.add(new Worker("w1", 21, 1000));
 		hset.add(new Worker("w2", 22, 2200));
 		
 		for(Worker w : hset)
